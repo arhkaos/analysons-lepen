@@ -4,13 +4,13 @@
       Analysons le projet du <span class="alp-home__title__red">Front National</span>
     </h1>
     <p class="alp-home__intro">
-      Blabla intro on compare le le projet du FN à la FI. Ou blabla on les combats jamais sur le fond
+      Le projet du FN et de la FI n'ont rien en commun ! Ni en matière d'écologie, ni de démocratie, ni de justice sociale !
       <br>
-      Blabla des thèmes sur lesquels on soulève des incohérences
+      Le programme du FN est en tout point opposé à nos aspirations, ne nous laissons pas emfumer !
     </p>
     <p class="alp-home__choose">
-      Blabla sélectionnez un thème pour analyser le projet du
-      <span class="alp-home__intro__red">Front National</span>
+      Sélectionnez un thème et comparez le programme du 
+      <span class="alp-home__intro__red">Front National</span> à celui de la <span class="alp-home__intro__red">France Insoumise</span>
     </p>
 
     <img class="alp-home__icon" src="./assets/arrow.down.png" alt="arrow down" height="24" width="24">
@@ -76,7 +76,7 @@ export default {
 
 .alp-home__themes {
   display: flex;
-  margin-top: 80px;
+  margin: 80px;
   min-height: 520px;
 }
 </style>
