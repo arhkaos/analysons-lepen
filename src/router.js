@@ -6,7 +6,7 @@ Vue.use(VueRouter)
 import Home from './Home.vue'
 
 const routes = [
-  { path: '', component: Home }
+  { path: '/', component: Home }
 ]
 
 export default new VueRouter({
